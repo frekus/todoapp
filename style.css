@@ -1,26 +1,20 @@
-body{
-    margin-right: 300px;
-    margin-left: 300px;
+body {
+  align-items: center;
+  margin-right: 300px;
+  margin-left: 300px;
 }
 
-h1{
-    text-align: center;
-    font-weight:bolder;
-    font-size: 80px;
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 80px;
 }
-.first{
-    align-items: center;
-    width:parent;
-    height: 350px;
-    border-radius: 5rem;
-    border-style:inset;
-    border-width: 10px;
-    margin-left: 50px;
-    margin-right: 50px;
-}
-.it{
-    margin-right: 300px;
-    margin-left: 300px;
-    position: fixed;
-    
+#container {
+  align-items: center;
+  width: parent;
+  height: 350px;
+  border-radius: 2rem;
+  border: solid;
+  border-width: 10px;
+  margin: auto;
 }
